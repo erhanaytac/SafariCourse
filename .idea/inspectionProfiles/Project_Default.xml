@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidKLintAlwaysShowAction" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintInlinedApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintNewApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintOverrideAbstract" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintParcelClassLoader" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintPrivateResource" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidKLintSuspiciousImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintAlwaysShowAction" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradleIdeError" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradlePath" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintGradlePluginVersion" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintInconsistentArrays" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintInlinedApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLibraryCustomView" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintMockLocation" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintMultipleUsesSdk" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNewApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNewerVersionAvailable" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="AndroidLintOldTargetApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintOverrideAbstract" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintParcelClassLoader" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintPrivateResource" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintProguardSplit" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintResAuto" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintResourceName" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintSuspiciousImport" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUsesMinSdkAttributes" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUsingHttp" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintVectorDrawableCompat" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="AndroidNonConstantResIdsInSwitch" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="CachedNumberConstructorCall" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="ClassWithTooManyDependencies" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="limit" value="10" />
+    </inspection_tool>
+    <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="ComponentRegistrationProblems" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="DuplicateStringLiteralInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="EqualsReplaceableByObjectsCall" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="ForCanBeForeach" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="REPORT_INDEXED_LOOP" value="true" />
+      <option name="ignoreUntypedCollections" value="false" />
+    </inspection_tool>
+    <inspection_tool class="Guava" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="IfCanBeSwitch" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="minimumBranches" value="3" />
+      <option name="suggestIntSwitches" value="false" />
+      <option name="suggestEnumSwitches" value="false" />
+    </inspection_tool>
+    <inspection_tool class="IllegalIdentifier" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="IndexOfReplaceableByContains" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="InterfaceMayBeAnnotatedFunctional" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="JUnit5Converter" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="Java8ArraySetAll" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Java8CollectionRemoveIf" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Java8ListSort" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Java8MapApi" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Java8MapForEach" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="LossyEncoding" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="MissingDeprecatedAnnotation" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="ignoreObjectMethods" value="true" />
+      <option name="ignoreAnonymousClassMethods" value="false" />
+    </inspection_tool>
+    <inspection_tool class="RawUseOfParameterizedType" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="RedundantStreamOptionalCall" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="SimplifyCollector" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="Since15" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="StaticPseudoFunctionalStyleMethod" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="StringBufferReplaceableByStringBuilder" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="TryFinallyCanBeTryWithResources" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="TryWithIdenticalCatches" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryBoxing" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryUnboxing" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="UseOfJDBCDriverClass" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="WhileCanBeForeach" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="WrongPackageStatement" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="unused" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="LOCAL_VARIABLE" value="true" />
+      <option name="FIELD" value="true" />
+      <option name="METHOD" value="true" />
+      <option name="CLASS" value="true" />
+      <option name="PARAMETER" value="true" />
+      <option name="REPORT_PARAMETER_FOR_PUBLIC_METHODS" value="true" />
+      <option name="ADD_MAINS_TO_ENTRIES" value="true" />
+      <option name="ADD_APPLET_TO_ENTRIES" value="true" />
+      <option name="ADD_SERVLET_TO_ENTRIES" value="true" />
+      <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
